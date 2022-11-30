@@ -1,0 +1,12 @@
+Apollo:
+  X1:
+    username: apollo
+    password: xxx
+    portal_url: http://xxx/
+    login_url: http://xxx/signin
+  X2:
+    username: apollo
+    password: xxx
+    portal_url: https://xxx/
+    login_url: https://xxx/signin
+

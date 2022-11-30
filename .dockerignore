@@ -1,0 +1,13 @@
+.idea/
+.git/
+
+APP-META/
+!APP-META/entrypoint.sh
+venv/
+logs/*.log
+tmp/
+
+*.json
+__pycache__/
+*.py[cod]
+*$py.class
